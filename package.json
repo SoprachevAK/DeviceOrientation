@@ -1,0 +1,17 @@
+{
+  "name": "com.soprachevak.device-orientation",
+  "version": "1.0.0",
+  "displayName": "Device orientation",
+  "description": "Setup different device orientation for tablet and phone",
+  "dependencies": {},
+  "keywords": [
+    "Device",
+"orientation"
+  ],
+  "author": {
+    "name": "Soprachev Andrei",
+    "email": "soprachev@mail.ru",
+    "url": "https://soprachev.com"
+  },
+  "unity": "2019.4"
+}

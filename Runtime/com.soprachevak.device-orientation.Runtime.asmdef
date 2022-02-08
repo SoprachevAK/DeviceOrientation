@@ -1,0 +1,11 @@
+{
+    "name": "com.soprachevak.device-orientation.Runtime",
+    "references": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
