@@ -11,7 +11,9 @@ Changes between 'DOC START' and 'DOC END' will not be lost on package update
 
 ## Usage
 
-Usage
+* Open **settings** file via `AS->Device Orientation Settings`
+* Setup settings
+* Build project
 
 <!-- DOC-END -->
 

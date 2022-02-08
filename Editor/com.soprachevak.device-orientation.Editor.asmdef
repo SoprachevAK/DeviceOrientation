@@ -1,6 +1,9 @@
 {
     "name": "com.soprachevak.device-orientation.Editor",
-    "references": [],
+    "rootNamespace": "",
+    "references": [
+        "GUID:f3e114e57330547f09fec020479868c6"
+    ],
     "includePlatforms": [
         "Editor"
     ],
